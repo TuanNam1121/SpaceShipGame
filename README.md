@@ -1,2 +1,2 @@
 # SpaceShipGame
-echo("nghịch ngợm xíu")
+Nghịch ngợm xíu thui ạ hihi
